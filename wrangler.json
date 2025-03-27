@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "katie-test",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d6d3b64f-edf7-4a88-8bb2-3e0f2b888004",
+      "database_name": "katie-test"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
